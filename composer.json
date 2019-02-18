@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Coocos\\": "src/Coocos",
+      "Tests\\Coocos\\": "tests/Coocos"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
